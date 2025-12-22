@@ -4,6 +4,3 @@
 [submodule "EngDarija-Translator_frontend"]
 	path = EngDarija-Translator_frontend
 	url = https://github.com/saida-ben/EngDarija-Translator_frontend
-[submodule "EngDarija-Translator_backend"]
-	path = EngDarija-Translator_backend
-	url = https://github.com/saida-ben/EngDarija-Translator
